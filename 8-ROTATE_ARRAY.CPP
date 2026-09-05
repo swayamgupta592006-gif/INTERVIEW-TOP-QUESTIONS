@@ -8,7 +8,7 @@ void reverseArray(vector<int>& a, int start, int end)
     {
         swap(a[start], a[end]);
         start++;
-        end--;
+        end-;
     }
 }
 
