@@ -17,7 +17,7 @@ using namespace std;
 int main(){
     vector<int> nums={1,2,3,4,5,6,7};
     sortarray(nums);
-    for(int x:nums){
+    for(int x:num){
         cout<<x<<" ";
 
     }
